@@ -11,6 +11,10 @@ body{
     position: relative;
 }
 
+.tabs.is-toggle a:hover { 
+    background-color: #668586;
+}
+
 .tile is-ancestor {
     padding: 10px;
 }
@@ -113,4 +117,3 @@ body{
     line-height: 1.25;
     padding: 3px;
 }
-
